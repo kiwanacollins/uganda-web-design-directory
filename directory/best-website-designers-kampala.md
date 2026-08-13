@@ -42,6 +42,15 @@ Website: https://kicowebdesign.com
 - **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Web design and digital marketing for SMEs.
 - **[Kipsi Web Design]({{ '/companies/kipsi-web-design/' | relative_url }})** — Kampala. Affordable websites, e-commerce and web design training.
 - **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Websites with ongoing content and social media management.
+- **[Rifa Design]({{ '/companies/rifa-design/' | relative_url }})** — Kampala. Affordable websites, e-commerce, SEO, marketing and hosting.
+- **[POD]({{ '/companies/pod/' | relative_url }})** — Bweyogerere, Kampala. Web design, e-commerce, UI/UX and social media marketing.
+- **[Carter Codes]({{ '/companies/carter-codes/' | relative_url }})** — Kampala. Custom web platforms, apps, branding and UX/UI design.
+- **[Digital Creatives Uganda]({{ '/companies/digital-creatives-uganda/' | relative_url }})** — Ntinda, Kampala. Affordable web design and digital marketing for SMEs.
+- **[Cave Motions]({{ '/companies/cave-motions/' | relative_url }})** — Kampala. Web development, software, apps and motion graphics.
+- **[Swift Web Design]({{ '/companies/swift-web-design/' | relative_url }})** — Kampala. Website design, hosting, SEO and ERP systems.
+- **[Kahwa Technology]({{ '/companies/kahwa-technology/' | relative_url }})** — Bugolobi, Kampala. Web design, marketing and branding.
+- **[Haclab Company Limited]({{ '/companies/haclab-company-limited/' | relative_url }})** — Kireka, Kampala. Custom software and enterprise web systems.
+- **[Code Digital Agency]({{ '/companies/code-digital-agency/' | relative_url }})** — Kampala Road. Web design, marketing and hosting.
 
 <div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
 

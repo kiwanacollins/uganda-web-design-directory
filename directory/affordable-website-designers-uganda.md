@@ -22,6 +22,10 @@ Website: https://kicowebdesign.com
 - **[Smart Choice Uganda]({{ '/companies/smart-choice-uganda/' | relative_url }})** — Kampala. Custom websites and hosting aimed at small and growing businesses.
 - **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Business and personal websites with affordable ongoing content support.
 - **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Web design and marketing focused on SMEs and entrepreneurs.
+- **[Rifa Design]({{ '/companies/rifa-design/' | relative_url }})** — Kampala. Affordable websites and online growth services for startups and SMEs.
+- **[Digital Creatives Uganda]({{ '/companies/digital-creatives-uganda/' | relative_url }})** — Ntinda, Kampala. Affordable websites and marketing tailored to smaller budgets.
+- **[POD]({{ '/companies/pod/' | relative_url }})** — Bweyogerere, Kampala. Design and marketing packages from a small agency.
+- **[Code Digital Agency]({{ '/companies/code-digital-agency/' | relative_url }})** — Kampala Road. Local web design, marketing and hosting.
 
 <div class="note">"Affordable" depends on what is included. Always compare the full cost list below. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for more details.</div>
 

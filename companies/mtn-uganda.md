@@ -13,7 +13,7 @@ services:
   - Business support services
   - Connectivity
 best_for: SMEs and enterprises wanting a website bundled with connectivity, cloud and support services
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://business.mtn.co.ug

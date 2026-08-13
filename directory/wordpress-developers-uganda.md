@@ -22,6 +22,8 @@ Website: https://kicowebdesign.com
 - **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). Responsive websites on popular content management systems, with hosting and maintenance.
 - **[Kipsi Web Design]({{ '/companies/kipsi-web-design/' | relative_url }})** — Kampala. Business websites and blogs with management and training.
 - **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Business and personal websites with ongoing content support.
+- **[Rifa Design]({{ '/companies/rifa-design/' | relative_url }})** — Kampala. Websites built on WordPress with training so you can manage content yourself.
+- **[POD]({{ '/companies/pod/' | relative_url }})** — Bweyogerere, Kampala. Websites built on popular CMS platforms with hosting and maintenance.
 
 <div class="note">These companies work with popular content management systems and related tools. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details.</div>
 

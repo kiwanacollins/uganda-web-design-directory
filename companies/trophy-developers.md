@@ -16,7 +16,7 @@ services:
   - Google Ads / PPC
   - Website management
 best_for: Businesses wanting an integrated website design and digital marketing package
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://www.trophydevelopers.com

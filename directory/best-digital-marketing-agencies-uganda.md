@@ -24,6 +24,11 @@ Website: https://kicowebdesign.com
 - **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Online marketing, content and social media management.
 - **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Digital advertising, social media and promotional services.
 - **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). Digital marketing and SEO alongside IT and web services.
+- **[Rifa Design]({{ '/companies/rifa-design/' | relative_url }})** — Kampala. Digital marketing, social media, content and PPC advertising.
+- **[POD]({{ '/companies/pod/' | relative_url }})** — Bweyogerere, Kampala. Social media marketing, SEO and Google Business management.
+- **[Digital Creatives Uganda]({{ '/companies/digital-creatives-uganda/' | relative_url }})** — Ntinda, Kampala. Digital marketing and social media for startups and SMEs.
+- **[Swift Web Design]({{ '/companies/swift-web-design/' | relative_url }})** — Kampala. Digital marketing alongside design and hosting.
+- **[Kahwa Technology]({{ '/companies/kahwa-technology/' | relative_url }})** — Bugolobi, Kampala. Digital marketing, branding and SEO.
 
 <div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
 

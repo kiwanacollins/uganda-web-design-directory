@@ -15,7 +15,7 @@ services:
   - Web hosting
   - Managed services
 best_for: Businesses wanting SEO-ready custom websites with hosting and app development in one place
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://smartchoiceug.com

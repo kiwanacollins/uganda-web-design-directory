@@ -8,8 +8,9 @@ permalink: /claim/
 
 Claiming a listing confirms to readers — and to search engines — that the information is accurate and published with your company's participation.
 
-## What claiming means
+## What the statuses mean
 
+- **Unclaimed** — the profile was created from publicly available information. The company has not yet claimed it.
 - **Claimed** — a representative of the company has requested ownership of the listing. Awaiting verification.
 - **Verified** — the publisher has confirmed the claim through the company's official channels. Verified listings show a badge on the profile.
 

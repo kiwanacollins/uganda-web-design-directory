@@ -13,7 +13,7 @@ services:
   - Social media management
   - Content creation
 best_for: Individuals and businesses wanting websites plus ongoing content and social media support
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://www.weblinkuganda.com

@@ -45,7 +45,7 @@ If you later add a custom domain (e.g. `directory.kicowebdesign.com`), re-add th
 
 Companies can claim their profile at `/claim/`. The claim form opens a verification request as a GitHub issue on this repository. Statuses:
 
-- **listed** — based on publicly available information, reviewed on a published date.
+- **unclaimed** — based on publicly available information, reviewed on a published date.
 - **claimed** — a representative has requested ownership; awaiting verification.
 - **verified** — the publisher confirmed the claim through official channels; the profile shows a **Verified** badge.
 

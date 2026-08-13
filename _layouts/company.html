@@ -35,6 +35,8 @@ layout: default
       <p class="status-badge status-verified"><strong>Verified listing</strong> — the information below has been confirmed by the company.</p>
     {% when 'claimed' %}
       <p class="status-badge status-claimed"><strong>Claimed</strong> — a representative of this company has requested ownership. Awaiting publisher verification.</p>
+    {% when 'unclaimed' %}
+      <p class="status-badge status-unclaimed"><strong>Unclaimed</strong> — this profile was created from publicly available information. The company has not yet claimed it.</p>
   {% endcase %}
 
   <div class="company-facts">
@@ -54,6 +56,9 @@ layout: default
     {% if page.status == 'verified' %}
       <h2>This listing is verified</h2>
       <p>The information on this page has been confirmed by {{ page.title }}. To request a correction, <a href="{{ '/contact/' | relative_url }}">contact us</a>.</p>
+    {% elsif page.status == 'claimed' %}
+      <h2>Claim in progress</h2>
+      <p>A representative of {{ page.title }} has requested ownership of this listing. The claim is awaiting verification by the publisher.</p>
     {% else %}
       <h2>Are you from {{ page.title }}?</h2>
       <p>Claim this listing to confirm the information is accurate and show readers that your company participates in this directory. Verified listings are marked with a badge.</p>

@@ -147,6 +147,7 @@ h1, h2, h3, h4 { line-height: 1.25; color: var(--primary); }
 }
 .status-verified { background: #ecfdf5; border-color: #a7f3d0; color: #065f46; }
 .status-claimed { background: #fffbeb; border-color: #fde68a; color: #92400e; }
+.status-unclaimed { background: #f1f5f9; border-color: #cbd5e1; color: #334155; }
 .company-facts {
   display: grid; gap: .9rem; border: 1px solid var(--border); border-radius: var(--radius);
   background: var(--bg-alt); padding: 1.25rem 1.4rem; margin: 0 0 2rem;
@@ -165,6 +166,8 @@ h1, h2, h3, h4 { line-height: 1.25; color: var(--primary); }
   color: #065f46; background: #ecfdf5; border: 1px solid #a7f3d0;
   border-radius: 999px; padding: .12rem .5rem;
 }
+.mini-badge--claimed { color: #92400e; background: #fffbeb; border-color: #fde68a; }
+.mini-badge--unclaimed { color: #334155; background: #f1f5f9; border-color: #cbd5e1; }
 .claim-panel {
   margin-top: 2.5rem; padding: 1.5rem 1.6rem; border: 1px solid var(--border);
   border-left: 4px solid var(--accent); border-radius: var(--radius); background: var(--bg-alt);

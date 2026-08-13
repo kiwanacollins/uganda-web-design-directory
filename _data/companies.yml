@@ -9,54 +9,117 @@
   url: /companies/trophy-developers/
   location: Kampala, Uganda
   services: [Website design, Web development, Mobile app development, E-commerce, SEO, Digital marketing]
-  status: listed
+  status: unclaimed
   website: https://www.trophydevelopers.com
 
 - name: Sadja WebSolutions
   url: /companies/sadja-websolutions/
   location: Kampala, Uganda
   services: [Website design, Web development, Mobile app development, Digital marketing, Branding]
-  status: listed
+  status: unclaimed
   website: https://sadjawebsolutions.com
+
+- name: Haclab Company Limited
+  url: /companies/haclab-company-limited/
+  location: Kireka Kamuli Road, Kampala, Uganda
+  services: [Custom software development, Web development, Mobile app development, E-commerce, ERP systems]
+  status: unclaimed
+  website: https://haclab.net
+
+- name: Rifa Design
+  url: /companies/rifa-design/
+  location: Kampala, Uganda
+  services: [Website design, Web development, E-commerce, SEO, Digital marketing, Branding, Web hosting]
+  status: unclaimed
+  website: https://rifadesign.com
+
+- name: Carter Codes
+  url: /companies/carter-codes/
+  location: Kampala, Uganda
+  services: [Web development, Web design, Mobile app development, SEO, Branding, UX/UI design]
+  status: unclaimed
+  website: https://www.madebycartercodes.com
+
+- name: Digital Creatives Uganda
+  url: /companies/digital-creatives-uganda/
+  location: Ntinda, Kampala, Uganda
+  services: [Web design, Web development, Digital marketing, Social media management, Graphic design]
+  status: unclaimed
+  website: http://digitalcreativesug.com
+
+- name: POD
+  url: /companies/pod/
+  location: Bweyogerere, Kampala, Uganda
+  services: [Website design, Web development, E-commerce, UI/UX design, SEO, Social media marketing, Hosting]
+  status: unclaimed
+  website: https://pod.ug
+
+- name: Cave Motions
+  url: /companies/cave-motions/
+  location: Kampala, Uganda
+  services: [Web development, Custom software development, Mobile app development, E-commerce, AI automation, Animation]
+  status: unclaimed
+  website: https://cavemotions.com
+
+- name: Code Digital Agency
+  url: /companies/code-digital-agency/
+  location: Kampala Road, Kampala, Uganda
+  services: [Web design, Web development, Digital marketing, Web hosting]
+  status: unclaimed
+  website:
+
+- name: Swift Web Design
+  url: /companies/swift-web-design/
+  location: Kampala, Uganda
+  services: [Website design, Web development, SEO, Web hosting, ERP systems, Mobile app development]
+  status: unclaimed
+  website: https://swift-webdesign.com
+
+- name: Kahwa Technology
+  url: /companies/kahwa-technology/
+  location: Bugolobi, Kampala, Uganda
+  services: [Website design, Web development, Digital marketing, SEO, Branding, Graphic design]
+  status: unclaimed
+  website: https://kahwatechnology.com
 
 - name: Othware Uganda
   url: /companies/othware-uganda/
   location: Kampala (Ntinda), Uganda
   services: [Website design, Software development, E-commerce, Cloud services, Managed IT, Digital marketing]
-  status: listed
+  status: unclaimed
   website: https://www.othware.co.ug
 
 - name: Smart Choice Uganda
   url: /companies/smart-choice-uganda/
   location: Kampala, Uganda
   services: [Website design, Web development, E-commerce, SEO, Mobile app development, Hosting]
-  status: listed
+  status: unclaimed
   website: https://smartchoiceug.com
 
 - name: MTN Uganda
   url: /companies/mtn-uganda/
   location: Kampala, Uganda
   services: [Business websites, E-commerce, Cloud solutions, Digital marketing, Connectivity]
-  status: listed
+  status: unclaimed
   website: https://business.mtn.co.ug
 
 - name: Airpro Tech Uganda
   url: /companies/airpro-tech-uganda/
   location: Kampala, Uganda
   services: [Web design, Web development, Digital marketing, Software development, E-commerce]
-  status: listed
+  status: unclaimed
   website: https://airprotech.com
 
 - name: Kipsi Web Design
   url: /companies/kipsi-web-design/
   location: Kampala, Uganda
   services: [Website design, Web development, E-commerce, SEO, Web design training]
-  status: listed
+  status: unclaimed
   website: https://kipsiwebdesign.com
 
 - name: WebLink Uganda
   url: /companies/weblink-uganda/
   location: Kampala, Uganda
   services: [Website design, Web development, SEO, Online marketing, Social media management]
-  status: listed
+  status: unclaimed
   website: https://www.weblinkuganda.com

@@ -15,7 +15,7 @@ services:
   - Logo design
   - Branding
 best_for: Brands that need design, web and marketing delivered together
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://sadjawebsolutions.com

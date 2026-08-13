@@ -15,7 +15,7 @@ Verified listings carry a **Verified** badge, meaning the company has confirmed 
   {% for p in profiles %}
   <a class="card" href="{{ p.url | relative_url }}">
     <h3>{{ p.title }}
-      {% if p.status == 'verified' %}<span class="mini-badge">Verified</span>{% endif %}
+      {% if p.status == 'verified' %}<span class="mini-badge mini-badge--verified">Verified</span>{% elsif p.status == 'claimed' %}<span class="mini-badge mini-badge--claimed">Claimed</span>{% else %}<span class="mini-badge mini-badge--unclaimed">Unclaimed</span>{% endif %}
     </h3>
     <p>{% if p.location %}{{ p.location }}{% endif %}{% if p.services %} &middot; {% for s in p.services %}{{ s }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</p>
     <span class="card-link">View profile &rarr;</span>

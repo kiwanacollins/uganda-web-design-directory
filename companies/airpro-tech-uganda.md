@@ -13,7 +13,7 @@ services:
   - E-commerce
   - SME and entrepreneur support
 best_for: SMEs and entrepreneurs wanting web design bundled with digital marketing
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://airprotech.com

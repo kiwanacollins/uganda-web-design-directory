@@ -28,6 +28,12 @@ Website: https://kicowebdesign.com
 - **[Sadja WebSolutions]({{ '/companies/sadja-websolutions/' | relative_url }})** — Kampala. Custom websites, mobile apps and digital strategy for local and international clients.
 - **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Web and software development for SMEs and entrepreneurs.
 - **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Business websites, e-commerce and cloud solutions bundled with connectivity.
+- **[Haclab Company Limited]({{ '/companies/haclab-company-limited/' | relative_url }})** — Kireka, Kampala. Custom software, ERP systems, enterprise web systems and mobile apps.
+- **[Cave Motions]({{ '/companies/cave-motions/' | relative_url }})** — Kampala. Web development, custom software, mobile apps and AI automation.
+- **[Carter Codes]({{ '/companies/carter-codes/' | relative_url }})** — Kampala. Web platforms, mobile apps and system development.
+- **[Rifa Design]({{ '/companies/rifa-design/' | relative_url }})** — Kampala. Website development, e-commerce and app development.
+- **[Swift Web Design]({{ '/companies/swift-web-design/' | relative_url }})** — Kampala. Website development, ERP systems and mobile apps.
+- **[POD]({{ '/companies/pod/' | relative_url }})** — Bweyogerere, Kampala. Web development, e-commerce and UI/UX design.
 
 <div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
 

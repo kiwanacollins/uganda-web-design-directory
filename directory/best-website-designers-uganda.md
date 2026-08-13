@@ -91,6 +91,60 @@ Affordable business websites, e-commerce stores, SEO and web design training. Be
 
 Websites, SEO, online marketing, content and social media management. Best for clients wanting ongoing content and social support after launch.
 
+### Rifa Design
+
+**Location:** Kampala, Uganda · **Website:** [rifadesign.com](https://rifadesign.com)
+
+Website design, e-commerce, SEO, digital marketing, branding and hosting. Best for startups and SMEs wanting an affordable full-service online partner.
+
+### POD
+
+**Location:** Bweyogerere, Kampala, Uganda · **Website:** [pod.ug](https://pod.ug)
+
+Web design, e-commerce, UI/UX design, SEO, social media marketing and hosting. Best for brands that want design and marketing delivered together.
+
+### Carter Codes
+
+**Location:** Kampala, Uganda · **Website:** [madebycartercodes.com](https://www.madebycartercodes.com)
+
+Custom web platforms, mobile apps, branding and UX/UI design. Best for design-led digital products.
+
+### Digital Creatives Uganda
+
+**Location:** Ntinda, Kampala, Uganda · **Website:** [digitalcreativesug.com](http://digitalcreativesug.com)
+
+Affordable websites, web development, digital marketing and graphics for startups and SMEs.
+
+### Cave Motions
+
+**Location:** Kampala, Uganda · **Website:** [cavemotions.com](https://cavemotions.com)
+
+Web development, custom software, mobile apps, e-commerce, AI automation, motion graphics and animation.
+
+### Swift Web Design
+
+**Location:** Kampala, Uganda · **Website:** [swift-webdesign.com](https://swift-webdesign.com)
+
+Website design, web hosting, SEO, ERP systems and mobile apps.
+
+### Kahwa Technology
+
+**Location:** Bugolobi, Kampala, Uganda · **Website:** [kahwatechnology.com](https://kahwatechnology.com)
+
+Web design, digital marketing, branding and graphic design.
+
+### Haclab Company Limited
+
+**Location:** Kireka, Kampala, Uganda · **Website:** [haclab.net](https://haclab.net)
+
+Custom software development, enterprise web systems, mobile apps and ERP systems.
+
+### Code Digital Agency
+
+**Location:** Kampala Road, Kampala, Uganda
+
+Web design, digital marketing and web hosting, known through its Google Business listing.
+
 <div class="note">Every company listed above has a <a href="{{ '/companies/' | relative_url }}">detailed profile</a>. A listing does not imply endorsement — each profile is based on publicly available information and reviewed on a published date. Companies can <a href="{{ '/claim/' | relative_url }}">claim and verify their listings</a>.</div>
 
 ## How to Choose a Website Designer in Uganda

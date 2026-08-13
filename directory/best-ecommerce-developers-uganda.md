@@ -28,6 +28,10 @@ Website: https://kicowebdesign.com
 - **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Online selling tools with payments such as MTN Mobile Money.
 - **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Online stores for retail businesses.
 - **[Kipsi Web Design]({{ '/companies/kipsi-web-design/' | relative_url }})** — Kampala. E-commerce stores with payment and delivery support for small businesses.
+- **[Rifa Design]({{ '/companies/rifa-design/' | relative_url }})** — Kampala. E-commerce stores with mobile money, card and bank payment integration.
+- **[POD]({{ '/companies/pod/' | relative_url }})** — Bweyogerere, Kampala. E-commerce solutions with multiple payment options.
+- **[Cave Motions]({{ '/companies/cave-motions/' | relative_url }})** — Kampala. E-commerce development alongside custom software and apps.
+- **[Haclab Company Limited]({{ '/companies/haclab-company-limited/' | relative_url }})** — Kireka, Kampala. E-commerce and mobile money API integration.
 
 <div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
 

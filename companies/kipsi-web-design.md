@@ -13,7 +13,7 @@ services:
   - Web design training
   - Website management
 best_for: Small businesses and startups wanting affordable, professional websites and web design skills
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://kipsiwebdesign.com

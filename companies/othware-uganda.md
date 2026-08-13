@@ -17,7 +17,7 @@ services:
   - Digital marketing
   - Cybersecurity
 best_for: Organizations needing web design alongside broader IT and software services
-status: listed
+status: unclaimed
 last_reviewed: 2026-08-13
 sources:
   - https://www.othware.co.ug
