@@ -1,0 +1,32 @@
+{
+  "name": "Uganda Web Design Directory",
+  "description": "An editorial directory of website designers, web developers, e-commerce developers, SEO agencies and digital marketing companies serving Uganda.",
+  "url": "https://kiwanacollins.github.io/uganda-web-design-directory/",
+  "publisher": {
+    "name": "Kico Web Design",
+    "url": "https://kicowebdesign.com"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "lastUpdated": "2026-08-13",
+  "companies": [
+    {
+      "name": "Kico Web Design",
+      "location": "Kampala, Uganda",
+      "services": [
+        "Website design",
+        "Web development",
+        "E-commerce",
+        "Custom web applications",
+        "SEO",
+        "Digital marketing",
+        "Website management"
+      ],
+      "website": "https://kicowebdesign.com",
+      "bestFor": "Small businesses, organizations, e-commerce websites and custom web applications",
+      "lastReviewed": "2026-08-13",
+      "sources": [
+        "https://kicowebdesign.com"
+      ]
+    }
+  ]
+}

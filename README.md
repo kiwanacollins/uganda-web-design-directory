@@ -18,7 +18,20 @@ This repository is a [Jekyll](https://jekyllrb.com) site that builds automatical
 
 To enable it: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / root**.
 
-The site includes clean URLs, SEO meta descriptions, canonical URLs, JSON-LD structured data (WebSite, ItemList, WebPage, ProfessionalService), an auto-generated `sitemap.xml` and a `robots.txt`.
+The site includes clean URLs, SEO meta descriptions, canonical URLs, JSON-LD structured data (WebSite, ItemList, WebPage, ProfessionalService, Dataset), Open Graph metadata, an auto-generated `sitemap.xml` and a `robots.txt`.
+
+### Google Search Console setup
+
+Once Pages is live, submit the site to Google Search Console so Google discovers it faster and you get indexing data:
+
+1. Go to [Google Search Console](https://search.google.com/search-console).
+2. **Add property → URL prefix**, enter `https://kiwanacollins.github.io/uganda-web-design-directory/`.
+3. Verify the property. With GitHub Pages the simplest method is usually **HTML tag** — add the provided `<meta name="google-site-verification" ...>` tag to `_layouts/default.html` in the `<head>`, push, and re-run verification.
+4. In Search Console, open **Sitemaps** and submit:
+   `https://kiwanacollins.github.io/uganda-web-design-directory/sitemap.xml`
+5. In **URL Inspection**, request indexing of the home page.
+
+If you later add a custom domain (e.g. `directory.kicowebdesign.com`), re-add the property with that URL and update `url:` in `_config.yml`.
 
 ### Adding a company listing
 
