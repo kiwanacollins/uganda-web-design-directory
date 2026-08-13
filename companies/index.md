@@ -10,7 +10,7 @@ Profiles below are based on publicly available information — each company's of
 
 Verified listings carry a **Verified** badge, meaning the company has confirmed its own information.
 
-{% assign profiles = site.pages | where_exp: "p", "p.path contains 'companies/' and p.name != 'index.md'" | sort: "title" %}
+{% assign profiles = site.pages | where_exp: "p", "p.path contains 'companies/'" | where_exp: "p", "p.name != 'index.md'" | sort: "title" %}
 <div class="card-grid company-grid">
   {% for p in profiles %}
   <a class="card" href="{{ p.url | relative_url }}">
