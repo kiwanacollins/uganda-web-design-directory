@@ -125,6 +125,21 @@ h1, h2, h3, h4 { line-height: 1.25; color: var(--primary); }
 .btn-light { background: transparent; border-color: rgba(255, 255, 255, .4); color: #fff; }
 .btn-light:hover { border-color: #fff; background: rgba(255, 255, 255, .1); }
 
+.claim-box {
+  margin: 2rem 0;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  background: var(--bg-alt);
+}
+.claim-box p { margin: 0 0 .75rem; color: var(--muted); font-size: .95rem; }
+.claim-box p:last-child { margin-bottom: 0; }
+.claim-box .claim-status strong { color: var(--text); }
+.claim-box--claimed { border-left-color: #16a34a; }
+.claim-box--claimed .claim-status strong { color: #16a34a; }
+.claim-link { font-size: .95rem; }
+
 /* Sections */
 .section { padding: 3.5rem 0; }
 .section-alt { background: var(--bg-alt); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }

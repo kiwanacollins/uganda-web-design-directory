@@ -1,0 +1,18 @@
+{% assign claimed = page.claimed %}
+{% assign company_name = page.title | split: " — " | first %}
+{% assign issue_title = "Claim listing: " | append: company_name %}
+{% assign issue_body = "**Company name:** " | append: company_name | append: "%0A**Website:** %0A**Your role at the company:** %0A**Public contact email:** %0A%0APlease confirm you are an authorized representative of this company. Once verified, we will mark this listing as claimed and update it with the details you provide." %}
+<div class="claim-box{% if claimed %} claim-box--claimed{% endif %}">
+  {% if claimed %}
+    <p class="claim-status"><strong>&#10003; Claimed listing.</strong> This profile has been confirmed by the company and last updated by them on {{ page.claimedDate | default: page.lastReviewed }}.</p>
+  {% else %}
+    <p class="claim-status">This is an <strong>unclaimed listing</strong>, built from publicly available information per our <a href="{{ '/editorial-policy/' | relative_url }}">editorial policy</a>. It has not been confirmed by {{ company_name }}.</p>
+    <p>
+      <a class="btn btn-primary claim-link"
+         href="https://github.com/kiwanacollins/uganda-web-design-directory/issues/new?title={{ issue_title | url_encode }}&body={{ issue_body | url_encode }}"
+         target="_blank" rel="noopener">
+        Is this your company? Claim this listing
+      </a>
+    </p>
+  {% endif %}
+</div>

@@ -24,5 +24,8 @@ layout: default
   <div class="page-body">
     {{ content }}
   </div>
+  {% if page.path contains 'companies/' %}
+    {% include claim-listing.html %}
+  {% endif %}
   <a class="back-link" href="{{ '/' | relative_url }}">&larr; Back to directory</a>
 </article>

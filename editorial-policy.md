@@ -50,6 +50,14 @@ Each listing records the company name, location, website, services, specializati
 
 Category guides are editorial recommendations. "Best" is a practical recommendation based on the evidence reviewed, not an official or certified ranking. Readers should treat them as a starting point and do their own checks.
 
+## Claimed and unclaimed listings
+
+Most company profiles start as **unclaimed listings**: built entirely from publicly available information (the company's own website and other verifiable public sources), following the same evaluation criteria described above. An unclaimed listing has not been confirmed by the company it describes, and this is stated clearly on the profile itself.
+
+A company can **claim its listing** at any time by submitting a claim request through the link on its profile page, which opens a verification request on the directory's GitHub repository. Once we confirm the requester is an authorized representative of the company, the listing is marked as **claimed** and the company may supply corrections, additional detail and an updated "last reviewed" date.
+
+Claiming a listing is free and does not affect ranking, inclusion or removal. Unclaimed listings remain in the directory — claiming only adds a confirmation badge and lets the company keep its own information current.
+
 ## No payment for inclusion
 
 There is no fee for inclusion in this directory. Payment never affects whether, where or how a company is listed. This rule is absolute.
