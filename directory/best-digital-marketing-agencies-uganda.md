@@ -16,6 +16,17 @@ Kico Web Design combines website development with SEO and digital marketing serv
 
 Website: https://kicowebdesign.com
 
+## Notable Digital Marketing Agencies in Uganda
+
+- **[Trophy Developers]({{ '/companies/trophy-developers/' | relative_url }})** — Kampala. Digital marketing, SEO, PPC and social media alongside web design.
+- **[Sadja WebSolutions]({{ '/companies/sadja-websolutions/' | relative_url }})** — Kampala. Paid and organic marketing campaigns plus digital strategy.
+- **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. SEO, social media and online advertising for SMEs.
+- **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Online marketing, content and social media management.
+- **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Digital advertising, social media and promotional services.
+- **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). Digital marketing and SEO alongside IT and web services.
+
+<div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
+
 ## Digital Marketing Services
 
 Depending on the agency, services may include:

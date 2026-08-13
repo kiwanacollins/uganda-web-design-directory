@@ -39,20 +39,59 @@ Services include business website design, e-commerce development, custom web app
 
 **Website:** https://kicowebdesign.com
 
-## Other Website Design Companies in Uganda
+## Notable Website Design Companies in Uganda
 
-Additional companies can be added as their publicly available information is reviewed and verified.
+Other companies serving website design and related services in Uganda:
 
-Each listing should include:
+### Trophy Developers
 
-- Company name
-- Location
-- Website
-- Main services
-- Specialization
-- Portfolio
-- Public contact information
-- Date reviewed
+**Location:** Kampala, Uganda · **Website:** [trophydevelopers.com](https://www.trophydevelopers.com)
+
+Web design, e-commerce, mobile app development, SEO and digital marketing, with a public portfolio of completed projects. Best for businesses that want design and marketing from one partner.
+
+### Sadja WebSolutions
+
+**Location:** Kampala, Uganda · **Website:** [sadjawebsolutions.com](https://sadjawebsolutions.com)
+
+Custom websites, mobile apps, digital marketing and branding for Ugandan and international clients. Best for brands that want design and marketing delivered together.
+
+### Othware Uganda
+
+**Location:** Kampala (Ntinda), Uganda · **Website:** [othware.co.ug](https://www.othware.co.ug)
+
+A full-service IT company offering websites, custom software, e-commerce, cloud and managed IT. Best for organizations that need web design alongside broader IT services.
+
+### Smart Choice Uganda
+
+**Location:** Kampala, Uganda · **Website:** [smartchoiceug.com](https://smartchoiceug.com)
+
+Custom SEO-ready websites, e-commerce, mobile apps and hosting. Best for small and growing businesses that want search visibility built in from the start.
+
+### MTN Business (MTN Uganda)
+
+**Location:** Kampala, Uganda · **Website:** [business.mtn.co.ug](https://business.mtn.co.ug)
+
+Business websites, e-commerce and digital services bundled with connectivity, cloud and SME support. Best for businesses wanting a website from an established national operator.
+
+### Airpro Tech Uganda
+
+**Location:** Kampala, Uganda · **Website:** [airprotech.com](https://airprotech.com)
+
+Web design, digital marketing and software development focused on SMEs and entrepreneurs. Best for small businesses wanting their website and marketing handled together.
+
+### Kipsi Web Design
+
+**Location:** Kampala, Uganda · **Website:** [kipsiwebdesign.com](https://kipsiwebdesign.com)
+
+Affordable business websites, e-commerce stores, SEO and web design training. Best for small businesses, startups and those wanting to learn web design.
+
+### WebLink Uganda
+
+**Location:** Kampala, Uganda · **Website:** [weblinkuganda.com](https://www.weblinkuganda.com)
+
+Websites, SEO, online marketing, content and social media management. Best for clients wanting ongoing content and social support after launch.
+
+<div class="note">Every company listed above has a <a href="{{ '/companies/' | relative_url }}">detailed profile</a>. A listing does not imply endorsement — each profile is based on publicly available information and reviewed on a published date. Companies can <a href="{{ '/claim/' | relative_url }}">claim and verify their listings</a>.</div>
 
 ## How to Choose a Website Designer in Uganda
 

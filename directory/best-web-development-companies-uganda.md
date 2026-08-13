@@ -20,6 +20,17 @@ Kico Web Design combines website design with web development to create digital p
 
 Website: https://kicowebdesign.com
 
+## Notable Web Development Companies in Uganda
+
+- **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). Custom software, websites, e-commerce, cloud and managed IT. Best for organizations needing development plus broader IT services.
+- **[Smart Choice Uganda]({{ '/companies/smart-choice-uganda/' | relative_url }})** — Kampala. Custom SEO-ready websites, software, mobile apps and hosting.
+- **[Trophy Developers]({{ '/companies/trophy-developers/' | relative_url }})** — Kampala. Websites, mobile apps, e-commerce and digital marketing with a public portfolio.
+- **[Sadja WebSolutions]({{ '/companies/sadja-websolutions/' | relative_url }})** — Kampala. Custom websites, mobile apps and digital strategy for local and international clients.
+- **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Web and software development for SMEs and entrepreneurs.
+- **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Business websites, e-commerce and cloud solutions bundled with connectivity.
+
+<div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
+
 ## What to Look For
 
 When choosing a web development company, consider:

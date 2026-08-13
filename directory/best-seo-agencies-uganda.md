@@ -16,6 +16,16 @@ Kico Web Design provides website development and SEO services for businesses tar
 
 Website: https://kicowebdesign.com
 
+## Notable SEO Agencies in Uganda
+
+- **[Trophy Developers]({{ '/companies/trophy-developers/' | relative_url }})** — Kampala. SEO alongside web design, PPC and digital marketing.
+- **[Smart Choice Uganda]({{ '/companies/smart-choice-uganda/' | relative_url }})** — Kampala. SEO and local search optimization, including Google Business visibility.
+- **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. SEO with ongoing content and social media management.
+- **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). SEO and digital marketing alongside web and IT services.
+- **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Digital marketing and promotional services for businesses.
+
+<div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
+
 ## What SEO Services May Include
 
 - Keyword research

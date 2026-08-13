@@ -1,0 +1,62 @@
+- name: Kico Web Design
+  url: /companies/kico-web-design/
+  location: Kampala, Uganda
+  services: [Website design, Web development, E-commerce, Custom web applications, SEO, Digital marketing]
+  status: verified
+  website: https://kicowebdesign.com
+
+- name: Trophy Developers
+  url: /companies/trophy-developers/
+  location: Kampala, Uganda
+  services: [Website design, Web development, Mobile app development, E-commerce, SEO, Digital marketing]
+  status: listed
+  website: https://www.trophydevelopers.com
+
+- name: Sadja WebSolutions
+  url: /companies/sadja-websolutions/
+  location: Kampala, Uganda
+  services: [Website design, Web development, Mobile app development, Digital marketing, Branding]
+  status: listed
+  website: https://sadjawebsolutions.com
+
+- name: Othware Uganda
+  url: /companies/othware-uganda/
+  location: Kampala (Ntinda), Uganda
+  services: [Website design, Software development, E-commerce, Cloud services, Managed IT, Digital marketing]
+  status: listed
+  website: https://www.othware.co.ug
+
+- name: Smart Choice Uganda
+  url: /companies/smart-choice-uganda/
+  location: Kampala, Uganda
+  services: [Website design, Web development, E-commerce, SEO, Mobile app development, Hosting]
+  status: listed
+  website: https://smartchoiceug.com
+
+- name: MTN Uganda
+  url: /companies/mtn-uganda/
+  location: Kampala, Uganda
+  services: [Business websites, E-commerce, Cloud solutions, Digital marketing, Connectivity]
+  status: listed
+  website: https://business.mtn.co.ug
+
+- name: Airpro Tech Uganda
+  url: /companies/airpro-tech-uganda/
+  location: Kampala, Uganda
+  services: [Web design, Web development, Digital marketing, Software development, E-commerce]
+  status: listed
+  website: https://airprotech.com
+
+- name: Kipsi Web Design
+  url: /companies/kipsi-web-design/
+  location: Kampala, Uganda
+  services: [Website design, Web development, E-commerce, SEO, Web design training]
+  status: listed
+  website: https://kipsiwebdesign.com
+
+- name: WebLink Uganda
+  url: /companies/weblink-uganda/
+  location: Kampala, Uganda
+  services: [Website design, Web development, SEO, Online marketing, Social media management]
+  status: listed
+  website: https://www.weblinkuganda.com

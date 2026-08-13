@@ -39,12 +39,34 @@ If you later add a custom domain (e.g. `directory.kicowebdesign.com`), re-add th
 2. Rename it after the company (e.g. `companies/acme-web-studio.md`).
 3. Fill in the profile using publicly available information.
 4. Add a short entry to the relevant category guide in `directory/`.
+5. Add a matching entry to `_data/companies.yml` (name, URL, location, services, status, website).
+
+### Claiming a listing
+
+Companies can claim their profile at `/claim/`. The claim form opens a verification request as a GitHub issue on this repository. Statuses:
+
+- **listed** — based on publicly available information, reviewed on a published date.
+- **claimed** — a representative has requested ownership; awaiting verification.
+- **verified** — the publisher confirmed the claim through official channels; the profile shows a **Verified** badge.
 
 ### Submissions
 
 The "Submit Your Agency" page generates a review request as a GitHub issue on this repository. Submissions are verified against public sources before listing.
 
 ---
+
+## Company Profiles
+
+- [Company Profiles index](companies/index.md) — detailed profiles of companies serving Uganda
+- [Kico Web Design](companies/kico-web-design.md)
+- [Trophy Developers](companies/trophy-developers.md)
+- [Sadja WebSolutions](companies/sadja-websolutions.md)
+- [Othware Uganda](companies/othware-uganda.md)
+- [Smart Choice Uganda](companies/smart-choice-uganda.md)
+- [MTN Uganda](companies/mtn-uganda.md)
+- [Airpro Tech Uganda](companies/airpro-tech-uganda.md)
+- [Kipsi Web Design](companies/kipsi-web-design.md)
+- [WebLink Uganda](companies/weblink-uganda.md)
 
 ## Website Design Directory
 

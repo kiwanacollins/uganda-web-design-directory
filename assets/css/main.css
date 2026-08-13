@@ -140,6 +140,40 @@ h1, h2, h3, h4 { line-height: 1.25; color: var(--primary); }
 .claim-box--claimed .claim-status strong { color: #16a34a; }
 .claim-link { font-size: .95rem; }
 
+/* Company profile */
+.status-badge {
+  display: inline-block; padding: .4rem .75rem; border-radius: 999px;
+  font-size: .85rem; margin: 0 0 1.5rem; border: 1px solid var(--border);
+}
+.status-verified { background: #ecfdf5; border-color: #a7f3d0; color: #065f46; }
+.status-claimed { background: #fffbeb; border-color: #fde68a; color: #92400e; }
+.company-facts {
+  display: grid; gap: .9rem; border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--bg-alt); padding: 1.25rem 1.4rem; margin: 0 0 2rem;
+}
+.company-facts .fact { display: flex; flex-direction: column; gap: .15rem; font-size: .95rem; }
+.company-facts .fact-label { font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 600; }
+.company-facts a { word-break: break-all; }
+.tag {
+  display: inline-block; background: #fff; border: 1px solid var(--border);
+  border-radius: 999px; padding: .15rem .6rem; font-size: .8rem; margin: .1rem .2rem .1rem 0;
+  white-space: nowrap;
+}
+.mini-badge {
+  display: inline-block; vertical-align: middle; margin-left: .35rem; font-size: .68rem;
+  font-weight: 600; text-transform: uppercase; letter-spacing: .04em;
+  color: #065f46; background: #ecfdf5; border: 1px solid #a7f3d0;
+  border-radius: 999px; padding: .12rem .5rem;
+}
+.claim-panel {
+  margin-top: 2.5rem; padding: 1.5rem 1.6rem; border: 1px solid var(--border);
+  border-left: 4px solid var(--accent); border-radius: var(--radius); background: var(--bg-alt);
+  max-width: 780px;
+}
+.claim-panel h2 { margin: 0 0 .5rem; font-size: 1.2rem; border: 0; padding: 0; }
+.claim-panel p { margin: 0 0 1rem; color: var(--muted); font-size: .95rem; }
+.claim-panel p:last-child { margin-bottom: 0; }
+
 /* Sections */
 .section { padding: 3.5rem 0; }
 .section-alt { background: var(--bg-alt); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }

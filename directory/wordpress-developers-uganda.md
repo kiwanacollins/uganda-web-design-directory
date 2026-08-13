@@ -16,6 +16,15 @@ Kico Web Design provides website design and development services for businesses 
 
 Website: https://kicowebdesign.com
 
+## Notable WordPress Services
+
+- **[Smart Choice Uganda]({{ '/companies/smart-choice-uganda/' | relative_url }})** — Kampala. Custom WordPress-style websites with SEO and managed hosting.
+- **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). Responsive websites on popular content management systems, with hosting and maintenance.
+- **[Kipsi Web Design]({{ '/companies/kipsi-web-design/' | relative_url }})** — Kampala. Business websites and blogs with management and training.
+- **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Business and personal websites with ongoing content support.
+
+<div class="note">These companies work with popular content management systems and related tools. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details.</div>
+
 ## What to Check Before Hiring a WordPress Developer
 
 Ask about:

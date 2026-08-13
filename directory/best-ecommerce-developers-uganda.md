@@ -20,6 +20,17 @@ Kico Web Design builds e-commerce websites for businesses that want to sell prod
 
 Website: https://kicowebdesign.com
 
+## Notable E-commerce Developers in Uganda
+
+- **[Trophy Developers]({{ '/companies/trophy-developers/' | relative_url }})** — Kampala. E-commerce websites with shopping and payment functionality, plus marketing to sell on them.
+- **[Smart Choice Uganda]({{ '/companies/smart-choice-uganda/' | relative_url }})** — Kampala. Online stores and marketplaces with hosting and local SEO.
+- **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). E-commerce with payments, cloud and IT support.
+- **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Online selling tools with payments such as MTN Mobile Money.
+- **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Online stores for retail businesses.
+- **[Kipsi Web Design]({{ '/companies/kipsi-web-design/' | relative_url }})** — Kampala. E-commerce stores with payment and delivery support for small businesses.
+
+<div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
+
 ## Important E-commerce Features
 
 A modern Ugandan e-commerce website may need:

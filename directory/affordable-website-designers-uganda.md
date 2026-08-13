@@ -16,6 +16,15 @@ Kico Web Design provides website design and development services for businesses 
 
 Website: https://kicowebdesign.com
 
+## Notable Affordable Options
+
+- **[Kipsi Web Design]({{ '/companies/kipsi-web-design/' | relative_url }})** — Kampala. Affordable professional websites, e-commerce stores and web design training for small businesses and startups.
+- **[Smart Choice Uganda]({{ '/companies/smart-choice-uganda/' | relative_url }})** — Kampala. Custom websites and hosting aimed at small and growing businesses.
+- **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Business and personal websites with affordable ongoing content support.
+- **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Web design and marketing focused on SMEs and entrepreneurs.
+
+<div class="note">"Affordable" depends on what is included. Always compare the full cost list below. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for more details.</div>
+
 ## Compare the Full Cost
 
 When comparing website prices, check whether the quotation includes:

@@ -32,6 +32,19 @@ Services include:
 
 Website: https://kicowebdesign.com
 
+## Notable Web Designers in Kampala
+
+- **[Trophy Developers]({{ '/companies/trophy-developers/' | relative_url }})** — Kampala. Web design, e-commerce, apps and digital marketing with a public portfolio.
+- **[Sadja WebSolutions]({{ '/companies/sadja-websolutions/' | relative_url }})** — Kampala. Custom websites, apps, digital marketing and branding.
+- **[Othware Uganda]({{ '/companies/othware-uganda/' | relative_url }})** — Kampala (Ntinda). Websites plus software, cloud and managed IT services.
+- **[Smart Choice Uganda]({{ '/companies/smart-choice-uganda/' | relative_url }})** — Kampala. SEO-ready custom websites, apps and hosting.
+- **[MTN Business (MTN Uganda)]({{ '/companies/mtn-uganda/' | relative_url }})** — Kampala. Business websites and digital services from a national operator.
+- **[Airpro Tech Uganda]({{ '/companies/airpro-tech-uganda/' | relative_url }})** — Kampala. Web design and digital marketing for SMEs.
+- **[Kipsi Web Design]({{ '/companies/kipsi-web-design/' | relative_url }})** — Kampala. Affordable websites, e-commerce and web design training.
+- **[WebLink Uganda]({{ '/companies/weblink-uganda/' | relative_url }})** — Kampala. Websites with ongoing content and social media management.
+
+<div class="note">Listings are based on publicly available information. See the <a href="{{ '/companies/' | relative_url }}">company profiles</a> for details, or <a href="{{ '/claim/' | relative_url }}">claim a listing</a> to verify your company's information.</div>
+
 ## Choosing a Kampala Web Designer
 
 Look for a provider with:

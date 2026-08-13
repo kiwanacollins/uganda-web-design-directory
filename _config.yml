@@ -34,7 +34,7 @@ defaults:
   - scope:
       path: "companies"
     values:
-      layout: page
+      layout: company
 
 exclude:
   - README.md

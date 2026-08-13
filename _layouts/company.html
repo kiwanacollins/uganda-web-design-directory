@@ -1,0 +1,65 @@
+---
+layout: default
+---
+{% if page.website %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page.website | jsonify }},
+  {% if page.email %}"email": {{ page.email | jsonify }},{% endif %}
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": {{ page.location | split: "," | first | strip | jsonify }},
+    "addressCountry": "UG"
+  },
+  "areaServed": "UG",
+  "description": {{ page.description | jsonify }},
+  "knowsAbout": {{ page.services | jsonify }},
+  "sameAs": [{{ page.website | jsonify }}]
+}
+</script>
+{% endif %}
+<article class="container page">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/companies/' | relative_url }}">Companies</a></li>
+      <li aria-current="page">{{ page.title | escape }}</li>
+    </ol>
+  </nav>
+
+  {% case page.status %}
+    {% when 'verified' %}
+      <p class="status-badge status-verified"><strong>Verified listing</strong> — the information below has been confirmed by the company.</p>
+    {% when 'claimed' %}
+      <p class="status-badge status-claimed"><strong>Claimed</strong> — a representative of this company has requested ownership. Awaiting publisher verification.</p>
+  {% endcase %}
+
+  <div class="company-facts">
+    {% if page.location %}<div class="fact"><span class="fact-label">Location</span><span>{{ page.location }}</span></div>{% endif %}
+    {% if page.website %}<div class="fact"><span class="fact-label">Website</span><a href="{{ page.website }}" rel="noopener">{{ page.website | remove: 'https://' | remove: 'http://' | remove: '/' }}</a></div>{% endif %}
+    <div class="fact"><span class="fact-label">Services</span><span>{% for s in page.services %}<span class="tag">{{ s }}</span>{% endfor %}</span></div>
+    {% if page.best_for %}<div class="fact"><span class="fact-label">Best for</span><span>{{ page.best_for }}</span></div>{% endif %}
+    {% if page.last_reviewed %}<div class="fact"><span class="fact-label">Last reviewed</span><span>{{ page.last_reviewed }}</span></div>{% endif %}
+    {% if page.sources %}<div class="fact"><span class="fact-label">Sources</span><span>{% for s in page.sources %}<a href="{{ s }}" rel="noopener">{{ s }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</span></div>{% endif %}
+  </div>
+
+  <div class="page-body">
+    {{ content }}
+  </div>
+
+  <aside class="claim-panel">
+    {% if page.status == 'verified' %}
+      <h2>This listing is verified</h2>
+      <p>The information on this page has been confirmed by {{ page.title }}. To request a correction, <a href="{{ '/contact/' | relative_url }}">contact us</a>.</p>
+    {% else %}
+      <h2>Are you from {{ page.title }}?</h2>
+      <p>Claim this listing to confirm the information is accurate and show readers that your company participates in this directory. Verified listings are marked with a badge.</p>
+      <a class="btn btn-primary" href="{{ '/claim/' | relative_url }}?company={{ page.title | url_encode }}&amp;listing={{ page.url | url_encode }}">Claim this listing</a>
+    {% endif %}
+  </aside>
+
+  <a class="back-link" href="{{ '/companies/' | relative_url }}">&larr; All companies</a>
+</article>

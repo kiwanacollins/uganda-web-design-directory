@@ -1,47 +1,26 @@
 ---
-layout: page
-title: Kico Web Design — Web Design & Development Company in Kampala, Uganda
+layout: company
+title: Kico Web Design
 description: Kico Web Design is a Kampala-based agency providing business websites, e-commerce development, custom web applications, SEO, digital marketing and website management for businesses in Uganda.
 permalink: /companies/kico-web-design/
-claimed: true
-claimedDate: 2026-08-13
+website: https://kicowebdesign.com
+email: hello@kicowebdesign.com
+location: Kampala, Uganda
+services:
+  - Website design
+  - Web development
+  - E-commerce
+  - Custom web applications
+  - SEO
+  - Digital marketing
+  - Website management
+best_for: Small businesses, organizations, e-commerce websites and custom web applications
+status: verified
+last_reviewed: 2026-08-13
+sources:
+  - https://kicowebdesign.com
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "name": "Kico Web Design",
-  "url": "https://kicowebdesign.com",
-  "description": "Web design and development agency in Kampala, Uganda. Business websites, e-commerce development, custom web applications, SEO, digital marketing and website management.",
-  "email": "hello@kicowebdesign.com",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Kampala",
-    "addressCountry": "UG"
-  },
-  "areaServed": "UG",
-  "priceRange": "$$",
-  "knowsAbout": [
-    "Web design",
-    "Web development",
-    "E-commerce",
-    "Search engine optimization",
-    "Digital marketing"
-  ],
-  "sameAs": [
-    "https://kicowebdesign.com"
-  ]
-}
-</script>
-
 # Kico Web Design
-
-**Location:** Kampala, Uganda
-**Website:** <https://kicowebdesign.com>
-**Services:** Website design, web development, e-commerce development, custom web applications, SEO, digital marketing, website management
-**Serving:** Businesses and organizations across Uganda
-
-## Overview
 
 Kico Web Design is a Kampala-based web design and development agency focused on helping Ugandan businesses establish and improve their online presence. The agency combines website design with web development to build digital platforms for small businesses, organizations and growing companies.
 
@@ -55,12 +34,12 @@ Kico Web Design is a Kampala-based web design and development agency focused on 
 - **Digital marketing** — online marketing services for business growth
 - **Website management** — hosting, maintenance, security and backups
 
-## Getting Started
+## Best for
+
+Small businesses, organizations and companies that need a website built with conversion and search visibility in mind, or that need a custom web application rather than a template website.
+
+## Getting started
 
 Kico Web Design helps clients understand one-time development costs separately from recurring domain, hosting and maintenance costs.
 
-For a quote or more information:
-
 **Website:** <https://kicowebdesign.com>
-
-*Last reviewed: 2026. Sources: official website and publicly available information.*
