@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best E-commerce Developers in Uganda
+description: A guide to e-commerce developers in Uganda who build online stores with product catalogues, payments, checkout, order management and mobile optimisation.
+permalink: /best-ecommerce-developers-uganda/
+---
 # Best E-commerce Developers in Uganda
 
 **Last reviewed: 2026**
@@ -32,5 +38,5 @@ A modern Ugandan e-commerce website may need:
 
 ## Related
 
-- [Best Website Designers in Uganda](best-website-designers-uganda.md)
-- [Website Cost in Uganda](../resources/website-cost-uganda.md)
+- [Best Website Designers in Uganda]({{ '/best-website-designers-uganda/' | relative_url }})
+- [Website Cost in Uganda]({{ '/resources/website-cost-uganda/' | relative_url }})

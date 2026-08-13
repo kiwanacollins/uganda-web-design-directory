@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best Web Development Companies in Uganda
+description: A guide to web development companies in Uganda that build business websites, dashboards, web applications and e-commerce platforms.
+permalink: /best-web-development-companies-uganda/
+---
 # Best Web Development Companies in Uganda
 
 **Last reviewed: 2026**
@@ -31,5 +37,5 @@ When choosing a web development company, consider:
 
 ## Related Resources
 
-- [Best Website Designers in Uganda](best-website-designers-uganda.md)
-- [Best E-commerce Developers in Uganda](best-ecommerce-developers-uganda.md)
+- [Best Website Designers in Uganda]({{ '/best-website-designers-uganda/' | relative_url }})
+- [Best E-commerce Developers in Uganda]({{ '/best-ecommerce-developers-uganda/' | relative_url }})

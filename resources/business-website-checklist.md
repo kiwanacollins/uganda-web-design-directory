@@ -1,3 +1,9 @@
+---
+layout: page
+title: Business Website Checklist
+description: A pre-launch business website checklist covering design, content, SEO, conversion and technical essentials such as SSL, backups and analytics.
+permalink: /resources/business-website-checklist/
+---
 # Business Website Checklist
 
 Before launching a business website, check the following.

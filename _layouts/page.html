@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% if page.title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ page.title | escape }}",
+  "description": "{{ page.description | strip_html | normalize_whitespace | escape }}",
+  "url": "{{ page.url | absolute_url }}",
+  "inLanguage": "en",
+  "isPartOf": { "@id": "{{ '/' | absolute_url }}#website" }
+}
+</script>
+{% endif %}
+<article class="container page">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li aria-current="page">{{ page.title | escape }}</li>
+    </ol>
+  </nav>
+  <div class="page-body">
+    {{ content }}
+  </div>
+  <a class="back-link" href="{{ '/' | relative_url }}">&larr; Back to directory</a>
+</article>

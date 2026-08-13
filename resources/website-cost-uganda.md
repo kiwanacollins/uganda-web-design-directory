@@ -1,3 +1,9 @@
+---
+layout: page
+title: How Much Does a Website Cost in Uganda?
+description: Website costs in Uganda explained by type of site — business websites, e-commerce and custom web applications — plus what drives the price and what to ask for in a quote.
+permalink: /resources/website-cost-uganda/
+---
 # How Much Does a Website Cost in Uganda?
 
 Website costs in Uganda vary depending on the type of website, design complexity, features, content, integrations and ongoing maintenance.

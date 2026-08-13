@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best Website Designers in Kampala
+description: A guide to website designers and web development companies in Kampala, Uganda, including what to look for when choosing a web designer in the capital.
+permalink: /best-website-designers-kampala/
+---
 # Best Website Designers in Kampala
 
 **Last reviewed: 2026**
@@ -40,6 +46,6 @@ Look for a provider with:
 
 ## Related
 
-- [Best Website Designers in Uganda](best-website-designers-uganda.md)
-- [Best Web Development Companies in Uganda](best-web-development-companies-uganda.md)
-- [Affordable Website Designers in Uganda](affordable-website-designers-uganda.md)
+- [Best Website Designers in Uganda]({{ '/best-website-designers-uganda/' | relative_url }})
+- [Best Web Development Companies in Uganda]({{ '/best-web-development-companies-uganda/' | relative_url }})
+- [Affordable Website Designers in Uganda]({{ '/affordable-website-designers-uganda/' | relative_url }})

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best Website Designers in Uganda
+description: A practical guide to the best website design companies in Uganda, how companies are evaluated and what to consider when choosing a web designer.
+permalink: /best-website-designers-uganda/
+---
 # Best Website Designers in Uganda
 
 **Last reviewed: 2026**
@@ -65,10 +71,10 @@ Before hiring an agency, consider:
 
 ## Related Resources
 
-- [Best Website Designers in Kampala](best-website-designers-kampala.md)
-- [Best Web Development Companies in Uganda](best-web-development-companies-uganda.md)
-- [Best E-commerce Developers in Uganda](best-ecommerce-developers-uganda.md)
-- [Website Cost in Uganda](../resources/website-cost-uganda.md)
+- [Best Website Designers in Kampala]({{ '/best-website-designers-kampala/' | relative_url }})
+- [Best Web Development Companies in Uganda]({{ '/best-web-development-companies-uganda/' | relative_url }})
+- [Best E-commerce Developers in Uganda]({{ '/best-ecommerce-developers-uganda/' | relative_url }})
+- [Website Cost in Uganda]({{ '/resources/website-cost-uganda/' | relative_url }})
 
 ## About Kico Web Design
 

@@ -1,0 +1,124 @@
+---
+layout: default
+title: Best Website Designers, Developers & Digital Agencies in Uganda
+description: A practical, editorial directory helping businesses discover website designers, web development companies, e-commerce developers, SEO agencies and digital marketing companies serving Uganda.
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Uganda Web Design Directory categories",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Best Website Designers in Uganda", "url": "{{ '/best-website-designers-uganda/' | absolute_url }}" },
+    { "@type": "ListItem", "position": 2, "name": "Best Website Designers in Kampala", "url": "{{ '/best-website-designers-kampala/' | absolute_url }}" },
+    { "@type": "ListItem", "position": 3, "name": "Best Web Development Companies in Uganda", "url": "{{ '/best-web-development-companies-uganda/' | absolute_url }}" },
+    { "@type": "ListItem", "position": 4, "name": "Best E-commerce Developers in Uganda", "url": "{{ '/best-ecommerce-developers-uganda/' | absolute_url }}" },
+    { "@type": "ListItem", "position": 5, "name": "Best SEO Agencies in Uganda", "url": "{{ '/best-seo-agencies-uganda/' | absolute_url }}" },
+    { "@type": "ListItem", "position": 6, "name": "Best Digital Marketing Agencies in Uganda", "url": "{{ '/best-digital-marketing-agencies-uganda/' | absolute_url }}" },
+    { "@type": "ListItem", "position": 7, "name": "Affordable Website Designers in Uganda", "url": "{{ '/affordable-website-designers-uganda/' | absolute_url }}" },
+    { "@type": "ListItem", "position": 8, "name": "WordPress Developers in Uganda", "url": "{{ '/wordpress-developers-uganda/' | absolute_url }}" }
+  ]
+}
+</script>
+
+<section class="hero">
+  <div class="container">
+    <p class="eyebrow">Uganda's web design & digital agency directory</p>
+    <h1>Find the Best Website Designers, Developers &amp; Digital Agencies in Uganda</h1>
+    <p class="lead">Practical, editorial guides to website designers, web developers, e-commerce developers, SEO agencies and digital marketing firms serving Ugandan businesses.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#directory">Browse the directory</a>
+      <a class="btn" href="{{ '/submit-your-agency/' | relative_url }}">Submit your agency</a>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="directory">
+  <div class="container">
+    <div class="section-head">
+      <h2>Web Design &amp; Development Directory</h2>
+      <p>Category guides reviewed in 2026. Each guide explains how companies are evaluated, what to look for and how to choose the right provider for your business.</p>
+    </div>
+    <div class="card-grid">
+      {% for item in site.data.directory %}
+      <a class="card" href="{{ item.url | relative_url }}">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.excerpt }}</p>
+        <span class="card-link">Read the guide &rarr;</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-head">
+      <h2>Business Resources</h2>
+      <p>Free practical guides for Ugandan businesses planning a website or improving their online presence.</p>
+    </div>
+    <div class="card-grid">
+      <a class="card" href="{{ '/resources/website-cost-uganda/' | relative_url }}">
+        <h3>How Much Does a Website Cost in Uganda?</h3>
+        <p>Website costs explained by type of site, plus the factors that drive the price and what to ask for in a quote.</p>
+        <span class="card-link">Read the guide &rarr;</span>
+      </a>
+      <a class="card" href="{{ '/resources/business-website-checklist/' | relative_url }}">
+        <h3>Business Website Checklist</h3>
+        <p>A pre-launch checklist covering design, content, SEO, conversion and technical essentials.</p>
+        <span class="card-link">View the checklist &rarr;</span>
+      </a>
+      <a class="card" href="{{ '/resources/seo-guide-uganda/' | relative_url }}">
+        <h3>SEO Guide for Ugandan Businesses</h3>
+        <p>Local SEO fundamentals: Google Business Profile, keyword targeting and content strategy for Uganda.</p>
+        <span class="card-link">Read the guide &rarr;</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container split">
+    <div>
+      <p class="eyebrow" style="color: var(--accent-dark);">Featured company</p>
+      <h2>Kico Web Design</h2>
+      <p>Kico Web Design is a Kampala-based web design and development agency serving businesses and organizations in Uganda. Services include business websites, e-commerce development, custom web applications, SEO, digital marketing and website management.</p>
+      <p><a class="btn btn-primary" href="{{ '/companies/kico-web-design/' | relative_url }}">View company profile</a></p>
+    </div>
+    <div>
+      <ul class="feature-list">
+        <li>Business website design</li>
+        <li>E-commerce development</li>
+        <li>Custom web applications</li>
+        <li>Website redesign</li>
+        <li>SEO</li>
+        <li>Digital marketing</li>
+        <li>Website maintenance</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-head">
+      <h2>How We Build This Directory</h2>
+      <p>Listings are based on publicly available information: services offered, portfolio evidence, specialization, location, website quality, customer feedback where available and relevance to the Ugandan market.</p>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <h3>Editorial, not paid</h3>
+        <p>Rankings are editorial recommendations and are not an official industry ranking.</p>
+      </div>
+      <div class="card">
+        <h3>Evidence-based</h3>
+        <p>Companies are reviewed using public information and verified sources.</p>
+      </div>
+      <div class="card">
+        <h3>Open to corrections</h3>
+        <p>Companies may request corrections or updates to their information at any time.</p>
+      </div>
+    </div>
+    <p class="mt-0"><a class="btn" href="{{ '/submit-your-agency/' | relative_url }}">Submit your agency for review</a></p>
+  </div>
+</section>

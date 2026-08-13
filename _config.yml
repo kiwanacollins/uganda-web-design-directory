@@ -1,0 +1,43 @@
+# Uganda Web Design Directory — Jekyll configuration
+# Builds automatically on GitHub Pages (Settings > Pages > Deploy from branch: main / root).
+
+title: Uganda Web Design Directory
+tagline: Best Website Designers, Developers & Digital Agencies in Uganda
+description: >-
+  A practical, editorial directory helping businesses discover website designers,
+  web development companies, e-commerce developers, SEO agencies and digital
+  marketing companies serving Uganda. Published by Kico Web Design, Kampala.
+
+# For a GitHub Pages project site the URL is the GitHub Pages domain and
+# baseurl is the repository sub-path. Change these if you add a custom domain.
+url: "https://kiwanacollins.github.io"
+baseurl: "/uganda-web-design-directory"
+
+author:
+  name: Kico Web Design
+  url: https://kicowebdesign.com
+
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "directory"
+    values:
+      layout: page
+  - scope:
+      path: "resources"
+    values:
+      layout: page
+  - scope:
+      path: "companies"
+    values:
+      layout: page
+
+exclude:
+  - README.md
+  - directory/companies-template.md
+  - vendor
+  - .gitignore

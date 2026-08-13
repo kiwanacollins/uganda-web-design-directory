@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best SEO Agencies in Uganda
+description: A guide to SEO agencies in Uganda offering keyword research, technical SEO, local SEO, content strategy and SEO reporting for Ugandan businesses.
+permalink: /best-seo-agencies-uganda/
+---
 # Best SEO Agencies in Uganda
 
 **Last reviewed: 2026**
@@ -29,5 +35,5 @@ Ask the agency how it measures results and whether it focuses on sustainable org
 
 ## Related
 
-- [Best Digital Marketing Agencies in Uganda](best-digital-marketing-agencies-uganda.md)
-- [SEO Guide for Ugandan Businesses](../resources/seo-guide-uganda.md)
+- [Best Digital Marketing Agencies in Uganda]({{ '/best-digital-marketing-agencies-uganda/' | relative_url }})
+- [SEO Guide for Ugandan Businesses]({{ '/resources/seo-guide-uganda/' | relative_url }})

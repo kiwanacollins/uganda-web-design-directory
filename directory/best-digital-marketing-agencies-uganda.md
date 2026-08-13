@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best Digital Marketing Agencies in Uganda
+description: A guide to digital marketing agencies in Uganda offering SEO, Google Ads, social media marketing, content marketing and web development services.
+permalink: /best-digital-marketing-agencies-uganda/
+---
 # Best Digital Marketing Agencies in Uganda
 
 **Last reviewed: 2026**
@@ -27,5 +33,5 @@ Depending on the agency, services may include:
 
 ## Related
 
-- [Best SEO Agencies in Uganda](best-seo-agencies-uganda.md)
-- [Best Website Designers in Uganda](best-website-designers-uganda.md)
+- [Best SEO Agencies in Uganda]({{ '/best-seo-agencies-uganda/' | relative_url }})
+- [Best Website Designers in Uganda]({{ '/best-website-designers-uganda/' | relative_url }})

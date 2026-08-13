@@ -1,3 +1,9 @@
+---
+layout: page
+title: WordPress Developers in Uganda
+description: A guide to WordPress developers in Uganda who build and maintain business websites, blogs and online stores, plus what to check before hiring one.
+permalink: /wordpress-developers-uganda/
+---
 # WordPress Developers in Uganda
 
 **Last reviewed: 2026**
@@ -27,5 +33,5 @@ Ask about:
 
 ## Related
 
-- [Best Website Designers in Uganda](best-website-designers-uganda.md)
-- [Best Website Designers in Kampala](best-website-designers-kampala.md)
+- [Best Website Designers in Uganda]({{ '/best-website-designers-uganda/' | relative_url }})
+- [Best Website Designers in Kampala]({{ '/best-website-designers-kampala/' | relative_url }})

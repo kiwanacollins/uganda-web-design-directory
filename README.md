@@ -10,6 +10,29 @@ Website: https://kicowebdesign.com
 
 ---
 
+## Live Website
+
+This repository is a [Jekyll](https://jekyllrb.com) site that builds automatically on **GitHub Pages**. Once Pages is enabled, the site is available at:
+
+**https://kiwanacollins.github.io/uganda-web-design-directory/**
+
+To enable it: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / root**.
+
+The site includes clean URLs, SEO meta descriptions, canonical URLs, JSON-LD structured data (WebSite, ItemList, WebPage, ProfessionalService), an auto-generated `sitemap.xml` and a `robots.txt`.
+
+### Adding a company listing
+
+1. Copy `directory/companies-template.md` into `companies/`.
+2. Rename it after the company (e.g. `companies/acme-web-studio.md`).
+3. Fill in the profile using publicly available information.
+4. Add a short entry to the relevant category guide in `directory/`.
+
+### Submissions
+
+The "Submit Your Agency" page generates a review request as a GitHub issue on this repository. Submissions are verified against public sources before listing.
+
+---
+
 ## Website Design Directory
 
 - [Best Website Designers in Uganda](directory/best-website-designers-uganda.md)

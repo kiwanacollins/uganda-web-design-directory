@@ -1,3 +1,9 @@
+---
+layout: page
+title: SEO Guide for Ugandan Businesses
+description: A practical SEO guide for Ugandan businesses covering local search, Google Business Profile, on-page SEO and content strategy.
+permalink: /resources/seo-guide-uganda/
+---
 # SEO Guide for Ugandan Businesses
 
 SEO helps businesses appear when potential customers search for relevant products and services.
